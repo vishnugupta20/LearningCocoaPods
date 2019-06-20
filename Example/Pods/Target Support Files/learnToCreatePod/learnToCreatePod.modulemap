@@ -1,0 +1,6 @@
+framework module learnToCreatePod {
+  umbrella header "learnToCreatePod-umbrella.h"
+
+  export *
+  module * { export * }
+}

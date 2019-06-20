@@ -1,0 +1,16 @@
+PODS:
+  - learnToCreatePod (0.1.0)
+
+DEPENDENCIES:
+  - learnToCreatePod (from `../`)
+
+EXTERNAL SOURCES:
+  learnToCreatePod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  learnToCreatePod: c5ccb066ab0c86338d37b343419a9c1f1e2254ea
+
+PODFILE CHECKSUM: ac4f03882d3ef0c225ff48f8160e6c88b6a4959c
+
+COCOAPODS: 1.5.3

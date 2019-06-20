@@ -1,0 +1,22 @@
+{
+  "name": "learnToCreatePod",
+  "version": "0.1.0",
+  "summary": "A short description of learnToCreatePod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Vishnu Gupta/learnToCreatePod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Vishnu Gupta": "vishnu.gupta@finicity.com"
+  },
+  "source": {
+    "git": "https://github.com/Vishnu Gupta/learnToCreatePod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "learnToCreatePod/Classes/**/*"
+}
