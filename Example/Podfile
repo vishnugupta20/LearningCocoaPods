@@ -1,0 +1,6 @@
+use_frameworks!
+target 'learnToCreatePod_Tests' do
+  pod 'learnToCreatePod', :path => '../'
+  
+  
+end

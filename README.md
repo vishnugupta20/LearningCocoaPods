@@ -1,0 +1,29 @@
+# learnToCreatePod
+
+[![CI Status](https://img.shields.io/travis/Vishnu Gupta/learnToCreatePod.svg?style=flat)](https://travis-ci.org/Vishnu Gupta/learnToCreatePod)
+[![Version](https://img.shields.io/cocoapods/v/learnToCreatePod.svg?style=flat)](https://cocoapods.org/pods/learnToCreatePod)
+[![License](https://img.shields.io/cocoapods/l/learnToCreatePod.svg?style=flat)](https://cocoapods.org/pods/learnToCreatePod)
+[![Platform](https://img.shields.io/cocoapods/p/learnToCreatePod.svg?style=flat)](https://cocoapods.org/pods/learnToCreatePod)
+
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Requirements
+
+## Installation
+
+learnToCreatePod is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'learnToCreatePod'
+```
+
+## Author
+
+Vishnu Gupta, vishnu.gupta@finicity.com
+
+## License
+
+learnToCreatePod is available under the MIT license. See the LICENSE file for more info.
